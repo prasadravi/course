@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LIDST",
+            "request": "launch",
+            "mainClass": "LIDST",
+            "projectName": "course_4624d26e"
+        },
+        {
+            "type": "java",
+            "name": "prasad",
+            "request": "launch",
+            "mainClass": "prasad",
+            "projectName": "course_4624d26e"
+        },
+        {
+            "type": "java",
             "name": "hello",
             "request": "launch",
             "mainClass": "hello",
