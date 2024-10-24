@@ -1,12 +1,16 @@
 class hello
 {
-    public static void main(String a[])
+    public static void main(String args[])
     {
-        // literals
+        // byte b=125;
+        int a = 257;
 
-       char c= 'q';
-       c++;
-        System.out.println(c);
+
+    float f = 5.6f;
+    int t = (int) f;
+
+
+        System.out.println(t);
     
 
      }
